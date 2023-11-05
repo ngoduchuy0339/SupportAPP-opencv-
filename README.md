@@ -1,3 +1,3 @@
-# Python-Website
+# PythonAPP
 
-Create a website in python use Git Bash
+Create a application in python use Git Bash
